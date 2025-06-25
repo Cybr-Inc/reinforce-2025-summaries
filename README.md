@@ -208,4 +208,7 @@ If you're building security teams and culture:
 Thanks to Chris Whitlock from StudyGRC for sharing a NotebookLM with all the videos + the Cybr summaries included:
 - **[AWS re:Inforce 2025 NotebookLM](https://notebooklm.google.com/notebook/ed0a06b7-7aa9-4451-8b10-6a3678e8f9ad)**
 
+[Cole Horsman](https://www.linkedin.com/in/colep/) took this project idea to the next level with deep analysis of talks from 2024 to 2025. Check it out here:
+- **[re:Inforce analysis](https://reinforce-recap.streamlit.app/)**
+
 Want to dive deeper into the AWS security topics covered in these talks? Check out our hands-on [AWS Security training at Cybr](https://cybr.com) - featuring real-world labs and practical implementation guidance for many of the concepts discussed in these sessions.
